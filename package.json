@@ -121,5 +121,6 @@
   },
   "dependencies": {
     "ssr-window": "^4.0.2"
-  }
+  },
+  "packageManager": "pnpm@11.1.2"
 }
